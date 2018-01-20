@@ -265,6 +265,10 @@ figure.imgInline figcaption {
     text-align: right;
     margin-top: 4px;
 }
+figure.sensei .img-responsive {
+    max-height: 300px;
+    margin-left: auto;
+}
 figure.sensei figcaption {
     border: solid 2px #323a45;
     background-color: #323a45;
@@ -372,6 +376,7 @@ figure.periodico-final img {
 }
 #presaberes i.form-control-feedback,
 .seleccionable i.form-control-feedback {
+    margin-top: 8px;
     float: right;
 }
 a.bibliografia {
