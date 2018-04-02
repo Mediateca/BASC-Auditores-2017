@@ -8,6 +8,9 @@
 #Audi #contenido section {
     background-color: #D96137;
 }
+#Audi a {
+    color: #e8e8e8;
+}
 #Audi #presaberes .radio.form-control {
     background: #323a45;
     border-color: #323a45;
@@ -17,7 +20,7 @@
     background-color: #323a45;
 }
 #Audi .sabiaque img {
-    background-color: #8cccc2;
+    background-color: #D96137;
 }
 #Audi .btn-primary {
     background-color: #409e8f;
@@ -57,15 +60,21 @@
 #Audi .lineaTiempo div:first-of-type:before,
 #Audi .lineaTiempo div:last-of-type:before,
 #Audi .seleccionable {
-    background-color: #924ba9;
+    background-color: #A12111;
 }
 #Audi .lineaTiempo h2:after {
     background-image: url(../images/Audi_LineaTiempo.png);
 }
 #Audi blockquote {
-    border-left: 5px solid #9c53b4;
+    border-left: 5px solid #A12111;
 }
 /* Estilos generales para todos los cursos */
+blockquote div.cita {
+    text-align: right;
+}
+blockquote div.cita p {
+    margin-bottom: 0;
+}
 .tabla thead tr th {
     vertical-align: middle;
 }
@@ -535,8 +544,32 @@ a.bibliografia:hover {
 .arbol a:hover {
     text-decoration: none;
 }
+ul.banderas {
+    padding: 0;
+}
+ul.banderas>li {
+    list-style: none;
+}
+table.logos img {
+    width: 50px;
+    height: auto;
+}
+table.logos td:last-of-type {
+    padding-left: 10px;
+}
+table.logos tr:not(:last-of-type) {
+    border-bottom: solid 1px #eee;
+    padding-bottom: 2px;
+}
 .graficoSimple.mapamundi {
-    background-image: url(../images/AudiMod1_img06.png);
+    background-image: url(../images/mapamundi.png);
+}
+.graficoSimple.ctpat {
+    background-image: url(../images/ctpat.jpg);
+    background-color: #f1f0ee;
+    background-size: 60%;
+    background-position: 50% 100%;
+    padding-bottom: 20%;
 }
 .graficoSimple {
     background-repeat: no-repeat;
@@ -544,6 +577,7 @@ a.bibliografia:hover {
     background-position: 50%;
     padding-top: 2em;
     border-radius: 5px;
+    margin-bottom: 2em;
 }
 .graficoSimple a {
     display: block;
