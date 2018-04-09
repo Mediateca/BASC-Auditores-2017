@@ -333,6 +333,10 @@ figure.periodico-inicio h2 {
     margin-bottom: 25px;
     color: #000 !important;
 }
+figure.periodico-inicio a,
+figure.periodico-final a {
+    color: #337ab7 !important;
+}
 figure.periodico-inicio>figcaption,
 figure.periodico-final>figcaption {
     font-style: italic;
@@ -566,7 +570,7 @@ table.logos tr:not(:last-of-type) {
 }
 .graficoSimple.ctpat {
     background-image: url(../images/ctpat.jpg);
-    background-color: #f1f0ee;
+    background-color: #fff;
     background-size: 60%;
     background-position: 50% 100%;
     padding-bottom: 20%;
@@ -924,6 +928,13 @@ table.logos tr:not(:last-of-type) {
 .tablaDesplegada tbody tr td:first-of-type {
     display: table-cell;
     cursor: pointer;
+}
+.video {
+    max-width: 100%;
+}
+.video video {
+    max-width: 100%;
+    height: auto;
 }
 /* CSS media queries */
 @media (max-width: 767px) {
