@@ -696,13 +696,15 @@ table.logos tr:not(:last-of-type) {
 }
 .img-centrada,
 .img-modal,
-.img-modal-xl {
+.img-modal-xl,
+.obj-modal {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .wrap-img-modal,
-.wrap-img-modal-xl {
+.wrap-img-modal-xl,
+.wrap-obj-modal {
     background-color: #eee;
     border-radius: 5px;
     margin-top: 15px;
@@ -713,13 +715,15 @@ table.logos tr:not(:last-of-type) {
     padding-top: 10px;
 }
 .wrap-img-modal p,
-.wrap-img-modal-xl p {
+.wrap-img-modal-xl p,
+.wrap-obj-modal p {
     font-size: 12px;
     text-align: right;
     padding-top: 10px;
 }
 .wrap-img-modal h3,
-.wrap-img-modal-xl h3 {
+.wrap-img-modal-xl h3,
+.wrap-obj-modal h3 {
     font-size: 20px;
     text-align: center;
     margin-top: 10px;

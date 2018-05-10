@@ -2,28 +2,28 @@
 // Ajustes para navegadores sin soporte ECMA-262 5ta edición, es decir, el cochino IE8
 if (!Array.prototype.indexOf) {
     Array.prototype.indexOf = function (searchElement, fromIndex) {
-      if ( this === undefined || this === null ) {
-        throw new TypeError( '"this" is null or not defined' );
-      }
-      var length = this.length >>> 0; // Hack to convert object.length to a UInt32
-      fromIndex = +fromIndex || 0;
-      if (Math.abs(fromIndex) === Infinity) {
-        fromIndex = 0;
-      }
-      if (fromIndex < 0) {
-        fromIndex += length;
+        if ( this === undefined || this === null ) {
+            throw new TypeError( '"this" is null or not defined' );
+        }
+        var length = this.length >>> 0; // Hack to convert object.length to a UInt32
+        fromIndex = +fromIndex || 0;
+        if (Math.abs(fromIndex) === Infinity) {
+            fromIndex = 0;
+        }
         if (fromIndex < 0) {
-          fromIndex = 0;
+            fromIndex += length;
+            if (fromIndex < 0) {
+                fromIndex = 0;
+            }
         }
-      }
-      for (;fromIndex < length; fromIndex++) {
-        if (this[fromIndex] === searchElement) {
-          return fromIndex;
+        for (;fromIndex < length; fromIndex++) {
+            if (this[fromIndex] === searchElement) {
+                return fromIndex;
+            }
         }
-      }
-      return -1;
+        return -1;
     };
-  }
+}
 // Ahora si, el código de verdad
 var lienzoArbol,arrastrables;
 var arrastreCorrecto = false;
@@ -99,6 +99,46 @@ $(function(){
     });
     $('.img-modal').wrap('<div class="wrap-img-modal"></div>').click(function() {
         $('#modal .modal-content').append('<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="etiquetaModal">'+$(this).attr('title')+'</h4></div><div class="modal-body"><img src="'+$(this).attr('src')+'" class="img-responsive img-centrada"></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button></div>');
+        $('#modal').modal();
+    }).after('<p>Haga clic sobre la imagen para ampliarla</p>');
+    $('.obj-modal').wrap('<div class="wrap-obj-modal"></div>').click(function() {
+        $('#modal .modal-content').append('<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="etiquetaModal">'+$(this).attr('title')+'</h4></div><div class="modal-body"><object id="'+$(this).attr('data-id')+'" type="'+$(this).attr('data-type')+'" data="'+$(this).attr('data-src')+'" class="obj-modal">Su navegador no permite visualizar este interactivo.</object></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button></div>');
+        $('#modal').on('shown.bs.modal', function (e) {
+            var estado = [false,false,false];
+            var a = document.getElementById("svgObject");
+            var svgDoc = a.contentDocument;
+            iniciaEstado(3);
+            function iniciaEstado(num) {
+                var items = [];
+                var capas = [];
+                for (var i = 1; i <= num; i++) {
+                    var nom = 'E50'+i+'_switch';
+                    var nomCapas = 'Ruta50'+i;
+                    items.push(svgDoc.getElementById(nom));
+                    capas.push(svgDoc.getElementById(nomCapas));
+                }
+                items.forEach(function(item, i) {
+                    var pre = item.id.substr(0,4);
+                    var controlOn = svgDoc.getElementById(pre+'_control_on');
+                    var controlOff = svgDoc.getElementById(pre+'_control_off');
+                    var switchOn = svgDoc.getElementById(pre+'_on');
+                    var capa = capas[i];
+                    controlOn.setAttribute('transform','translate(-50)');
+                    controlOff.setAttribute('transform','translate(-50)');
+                    switchOn.setAttribute('opacity', 0);
+                    capa.setAttribute('opacity', 0);
+                    item.addEventListener('click', function(ev){
+                        var finalPosX = estado[i]?-50:0;
+                        var switchOnOpacity = estado[i]?0:1;
+                        estado[i] = !estado[i];
+                        controlOn.setAttribute('transform','translate('+finalPosX+')');
+                        controlOff.setAttribute('transform','translate('+finalPosX+')');
+                        switchOn.setAttribute('opacity', switchOnOpacity);
+                        capa.setAttribute('opacity', switchOnOpacity);
+                    });
+                });
+            }
+        });
         $('#modal').modal();
     }).after('<p>Haga clic sobre la imagen para ampliarla</p>');
     $('#modal').on('hidden.bs.modal', function (e) {
@@ -200,15 +240,15 @@ function emparejamiento() {
         evento.preventDefault();
     });
     $('.emparejamiento .destino a').droppable({
-       drop: function(event,ui) {
-               arrastreCorrecto = true;
-               verificarDrop(event, ui);
-           },
-       out: function(event,ui) {
-               if (!arrastreCorrecto){
-                    dropFuera(event, ui);
-               }
-           }
+        drop: function(event,ui) {
+            arrastreCorrecto = true;
+            verificarDrop(event, ui);
+        },
+        out: function(event,ui) {
+            if (!arrastreCorrecto){
+                dropFuera(event, ui);
+            }
+        }
     }).append('<span class="badge">0</span>').click(function(evento) {
         evento.preventDefault();
     }).popover({
