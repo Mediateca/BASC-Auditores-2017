@@ -854,7 +854,8 @@ table.logos tr:not(:last-of-type) {
 #riesgos td,
 #normaBASC td,
 #tablaComun td,
-.tablaComun table tr td {
+.tablaComun table tr td,
+.tablaComun tbody tr td {
     padding: 10px;
     vertical-align: middle;
 }
