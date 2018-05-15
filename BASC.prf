@@ -1,0 +1,21 @@
+{
+	"connectingName": "BASC",
+	"method": "ftp",
+	"host": "",
+	"port": "21",
+	"username": "",
+	"rsaPath": "",
+	"password": "",
+	"serverPath": "",
+	"save": false,
+	"siteUrl": "",
+	"method_p": "ftp",
+	"host_p": "ftp.mediateca.co",
+	"port_p": "21",
+	"username_p": "ocastelblanco@mediateca.co",
+	"rsaPath_p": "",
+	"password_p": "Artemisa1!",
+	"serverPath_p": "/proyectos/BASC/Auditores2018/",
+	"siteUrl_p": "",
+	"prfver": "1.1"
+}
