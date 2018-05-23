@@ -102,16 +102,18 @@ $(function(){
         $('#modal').modal();
     }).after('<p>Haga clic sobre la imagen para ampliarla</p>');
     $('.obj-modal').wrap('<div class="wrap-obj-modal"></div>').click(function() {
-        $('#modal .modal-content').append('<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="etiquetaModal">'+$(this).attr('title')+'</h4></div><div class="modal-body"><object id="'+$(this).attr('data-id')+'" type="'+$(this).attr('data-type')+'" data="'+$(this).attr('data-src')+'" class="obj-modal">Su navegador no permite visualizar este interactivo.</object></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button></div>');
+        $('#modal .modal-content').append('<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="etiquetaModal">'+$(this).attr('title')+'</h4></div><div class="modal-body"><div class="loading"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i><span>Cargando...</span></div><object id="'+$(this).attr('data-id')+'" type="'+$(this).attr('data-type')+'" data="'+$(this).attr('data-src')+'" class="obj-modal">Su navegador no permite visualizar contenido interactivo.</object></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button></div>');
+        var estado = [false,false,false];
+        var a = document.getElementById("svgObject");
+        a.style.opacity = "0";
         $('#modal').on('shown.bs.modal', function (e) {
-            var estado = [false,false,false];
-            var a = document.getElementById("svgObject");
-            var svgDoc = a.contentDocument;
-            iniciaEstado(3);
-            function iniciaEstado(num) {
+            var timeoutID = window.setTimeout(function() {
+                a.style.opacity = "1";
+                $('.loading').hide();
+                var svgDoc = a.contentDocument;
                 var items = [];
                 var capas = [];
-                for (var i = 1; i <= num; i++) {
+                for (var i = 1; i <= 3; i++) {
                     var nom = 'E50'+i+'_switch';
                     var nomCapas = 'Ruta50'+i;
                     items.push(svgDoc.getElementById(nom));
@@ -137,7 +139,7 @@ $(function(){
                         capa.setAttribute('opacity', switchOnOpacity);
                     });
                 });
-            }
+            }, 500);
         });
         $('#modal').modal();
     }).after('<p>Haga clic sobre la imagen para ampliarla</p>');

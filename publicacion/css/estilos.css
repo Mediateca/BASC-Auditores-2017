@@ -950,6 +950,13 @@ table.logos tr:not(:last-of-type) {
     max-width: 100%;
     height: auto;
 }
+.loading {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 25px 0;
+    text-align: center;
+}
 /* CSS media queries */
 @media (max-width: 767px) {
     header h1 {
