@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<!-- question: 0  -->
+	<question type="category">
+		<category>
+			<text>
+$course$/Evaluación Módulo 1
+			</text>
+		</category>
+	</question>
+	<!-- question: 101  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG01
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+World BASC Organization, WBO, es norma internacional que se constituye como marco general para implementar el SGCS-BASC; indique cual de estas afirmaciones es la correcta.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+World BASC Organization, WBO, es una entidad sin animo de lucro liderada por las empresas y apoyada por las aduanas
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+World BASC Organization, WBO, fue creada con la participacion de todos los paises del mundo que exportan a Europa para neutralizar el contrabando
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+World BASC Organization, WBO, es una entidad con animo de lucro liderada por las aduanas de los Estados Unidos y apoyada por las empresas de ese pais.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Para prevenir el terrorismo y el contrabando entre empresas importadoras y exportadoras del mundo hacia America Latina
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 102  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG02
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La no aplicación de las medidas necesarias de control en la cadena de suministros de las exportaciones ocasionan:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Perdida de clientes, perdida de imagen, perdidas economicas, procesos legales por actividades ilicitas de contrabando, facilitar el narcotrafico, lavado de activos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Se originan solo acciones legales por evidenciar actividades ilicitas como el narcotrafico, el contrabando y lavado de activos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Se redirecciona el comercio a sectores comerciales desprotegidos, aumentando la utilidad y capatacion de nuevos mercados.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Se motiva a las empresas a cambiar las vias de exportacion y mantener las de importacion garantizando grandes ingresos y posesionamiento en el mercado.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 103  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG03
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Las medidas restrictivas han aumentado en los paises destino de las exportaciones; indique la afirmacion correcta.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Aumenta los costos y dificulta los procesos comerciales sobre todo desde los paises proclives al comercio ilicito.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Las medidas reducen el flujo comercial entre paises importadores y exportadores.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+No es de relevancia entre paises comercialmente activos las medidas del SGCS-BASC
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Las vias aereas, terrestre y maritimas estan marginadas del SGCS-BASC si desde su origen el comercio de productos garantizan su no contaminacion.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 104  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG04
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Es deber solo de las empresas involucradas en el transporte de productos destinados a la exportación, implementar rigurosas medidas de prevención, que satisfagan los requerimientos en los puertos de entrada, que son cada vez más estrictos en los países importadores
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 105  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG05
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Las empresas que participan del comercio internacional, asuman su rol en la cadena logística con el fin de evitar que las actividades que desarrollan sean utilizadas por terceros de manera ilícita
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 106  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG06
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La alianza empresarial para un comercio seguro (BASC) es una organización sin animo de lucro, esta integrada por la empresa privada, entes publicos, organismos no gubernamentales reunidos con el propósito de generar y fomentar prácticas seguras en el comercio mundial, mediante la aplicación de medidas correctivas para que las empresas no sean mas blanco de actividades ilicitas.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 107  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG07
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El intercambio de experiencias, información y capacitación, ha permitido a las partes incrementar sus conocimientos y perfeccionar sus practicas en un esfuerzo por mantener las compañías libres de cualquier actividad ilícita; esto corresponde a:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+La cooperación entre el sector privado y el sector publico tanto local, nacional e internacional.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+La responsabilidad del sector privado y en algunos casos del sector publico tanto local, nacional e internacional.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+La cooperacion del sector publico tanto local, nacional e internacional.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+La responsabilidad del sector privado y  del sector publico  local.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 108  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG08
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El origen de BASC en Colombia y en el mundo, se remonta a:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+En Mexico desde 1.996 como necesidad de una empresa fabricante de juguetes, y en Colombia desde el año 2.000
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Se adhirieron 19 paises con sus empresas
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Se adhirieron 13 paises entre otros, Bolivia, Honduras, Paraguay y Uruguay
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Todos los paises del mundo implementaron el modelo BASC como base fundamental deun comercio seguro
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 109  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG09
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El principal objetivo y responsabilidad es la normalización y estandarización en Control y Seguridad,  aplicable a la cadena logística del comercio internacional contribuyendo a su facilitación y agilización
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+El proposito es facilitar y agilizar el comercio internacional mediante el establecimiento y administracion de estandares y procedimientos globales de seguridad integral aplicados a la cadena logistica internacional.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Los objetivos y responsabilidad es para el comercio local y regional de los paises exclusivos que implementaron BASC.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Las normas y estandares aplicables para los paises exportadores a Europa.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+El proposito es facilitar y agilizar el comercio nacional mediante el establecimiento  de estandares y procedimientos locales de seguridad integral aplicados a la cadena logistica nacional.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 110  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG10
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Contribuyen a la prevencion del contrabando, del narcotrafico y de otras formas del terrorismo que amenazan con filtrarse atraves del comercio internacional
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+El C-TPAT  la OMA (organización mundial de aduanas), OMI (organización maritima internacional) la Organización Mundial BASC
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+OMB (Organización Mundial BASC)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+El C-TPAT, OMI (organización maritima internacional) y  la Organización Mundial BASC
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+La DEA, la Interpol, la CIA y la Policia Antinarcoticos de Colombia.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 111  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG11
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+BASC significa hacer negocios con una empresa segura, comprometida, etica, garante de las exigencias de las autoridades y generadora de credibilidad en el medio que se desenvuelve. Por lo tanto es…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+BASC no es… Certificadora de buena conducta; certificadora de NO narcotraficante
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Requisito exclusivo de los Estados Unidos de America para exportar
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Programa gubernamental para proteccion contra el narcotrafico
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Es parte del "Plan Colombia"
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 112  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG12
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Participan como empresas asociadas, las personas juridicas que tienen actividad logistica, productivas o de comercio exterior, de prestacion de servicios, actividades complementarias o conexas al comercio exterior y tienen relación
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Relacion directa con la carga, relacion indirecta con la carga y sin relacion con la carga.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Solo relacion directa con la carga
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Sin relacion con la carga
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Con relacion indirecta con la carga
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 113  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG13
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Son participantes en BASC…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+El sector privado, el sector publico, organismos internacionales y asociaciones.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Administraciones de aduanas y autoridades portuarias de Holanda, Cuba y Suecia
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+OPEP, Organización de Paises Exportadores de Petroleo
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+La OTAN (Organización de ESTADOS DEL ATLANTICO NORTE)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 114  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG14
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La iniciativa BASC refleja el compromiso de las empresas por mejorar las condiciones de su entorno, por lo que son auditadas…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Anualmente
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Semestralmente
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Mensualmente
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Semanalmente
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 115  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG15
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Los beneficios de las empresas de pertenecer a BASC entre otros son:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Certificacion de su sistema de gestion en seguridad y control SGCS
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Asegura el flujo eficiente del comercio sin disminuir los controles
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Facilitar el intercambio comercial entre las naciones de una manera agil y segura.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Maximiza los recursos de la aduana.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 116  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG16
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La Organización de Estados Americanos  reconocio la importancia de BASC como plataforma para implementacion de su marco normativo, con la figura de O.E.A. operador economico autorizado.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 117  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG17
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La certificacion o autorizacion otorgado como OEA por parte de la DIAN, le permitira a la empresa hacer uso de los beneficios a nivel nacional y en los paises con los que Colombia suscriba acuerdos internacionales  de reconocimiento  mutuo (ARM)
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 118  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG18
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La figura del OEA es de carácter obligatorio
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 119  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG19
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La autorizacion OEA es de carácter indefinido
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 120  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG20
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+BASC hace parte del grupo consultivo del sector privado y fue escogido por...
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+La DIAN
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+ANALDEX
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FITAC
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+OMA
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 121  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG21
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Toda actividad irregular o presuntamente ilicita que sus compañias puedan tener tiene que comunicarla inmediatamente  …..
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Director Ejecutivo de su capitulo local BASC.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Policia Antinarcoticos
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+INVIMA
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Autoridades fitosanitarias
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 122  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG22
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Permite a la agencia de aduanas y proteccion fronteriza implementar nuevos programas de internacionales de seguridad para garantizar  la cadena de abastecimiento…. Esta regitrado como…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Regla 10+2
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+PIBP (CODIGO INTERNACIONAL PARA LA PROTECCION DE BUQUES Y DE LAS INSTALACIONES PORTUARIAS)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+CSI (INICIATIVA PARA LA SEGURIDAD DE CONTENEDORES)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+C-TPAT (ALIANZA ENTRE EL COMERCIO Y ADUANAS EN CONTRA DEL TERRORISMO)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 123  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod1-PREG23
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En las iniciativas actuales de seguridad en cual se enmarca el siguiente escenario: para los buques y puertos implicaria una alerta NIVEL 1, 1.Vigilar areas restringidas, 2. Controlar el acceso al barco, 3. Supervisar el manejo de la carga y provisiones del barco y 4. Abrir comunicaciones entre puertos  y buques de manera que se envian mensajes inmediatamente.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Codigo ISPS-OMI (organización Maritima Internacional)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+americas counter smuggling initiative (ACSI)
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Iniciativa para seguridad de contenedores CSI
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Ley contra el bioterrorismo
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+
+
+</quiz>

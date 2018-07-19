@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<!-- question: 0  -->
+	<question type="category">
+		<category>
+			<text>
+$course$/Evaluación Módulo 3
+			</text>
+		</category>
+	</question>
+	<!-- question: 301  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG01
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Por su interaccion con la carga las empresas que se relacionan a continuacion a que estandar corresponde: fabricantes, productores, exportadores, operadores logisticos, empresas almacenadoras de carga, transportadores terrestres, maritimos y/o aereos.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.1.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2 y 5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 302  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG02
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Entre otros actores que esten involucrados en la cadena de suministro en el estandar 5.0.2., a cual de estos enmarca
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Agentes de aduana, agentes de carga, custodios de seguridad en ruta, empresas de seguridad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Fabricantes, productores, exportadores, operadores logisticos, empresas almacenadoras de carga, transportadores terrestres, maritimos y/o aereos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Empresas reclutadoras de personal, instaladores de CCTV, hoteles, proveedores de alimentos, fabricantes de uniformes.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+ instaladores de CCTV, hoteles, , almacenadoras de carga, transportadores terrestres, maritimos y/o aereos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 303  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG03
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+A cual estandar no corresponden estas empresas que tendrian los controles operacionales para hacer parte de la cadena de suministro como Empresas reclutadoras de personal, instaladores de CCTV, hoteles, proveedores de alimentos, fabricantes de uniformes.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.2/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1/5.0.2
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 304  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG04
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Según los requisitos de seguridad establecidas en la norma BASC V-5, los estandares  que rigen para cada caso seria: Requisitos de asociado de negocio.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.3/5.0.2/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 305  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG05
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Según los requisitos de seguridad establecidas en la norma BASC V-5, los estandares  que rigen para cada caso seria: Seguridad de la carga y de las unidades de transporte de carga.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1 y 5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 306  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG06
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Según los requisitos de seguridad establecidas en la norma BASC V-5, los estandares  que rigen para cada caso seria: Seguridad en los procesos de manejo de la carga.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.2/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 307  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG07
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Según los requisitos de seguridad establecidas en la norma BASC V-5, los estandares  que rigen para cada caso seria: Seguridad en los procesos de manejo de personal.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.3/5.0.2/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 308  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG08
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Según los requisitos de seguridad establecidas en la norma BASC V-5, los estandares  que rigen para cada caso seria: control de acceso y  Seguridad fisica.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.1/5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1/5.0.2
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 309  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG09
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Según los requisitos de seguridad establecidas en la norma BASC V-5, los estandares  que rigen para cada caso seria: Seguridad en los procesos relacionados con la tecnologia e informacion.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.2/5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1/5.0.2
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 310  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG10
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Se considera asociado de negocio
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Clientes y empresa de seguridad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Empresa de seguridad y  empresas  de servicios publicos
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Empresa de aseo del municipio y proveedor de energia electrica.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Empresa reclutadora de personal y concesion vial.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 311  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG11
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Con base en la gestion del riesgo un acuerdo de seguridad es un elemento que contribuye a su certificacion como asociado de negocio.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 312  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG12
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Al no suscribirse un acuerdo de seguridad pero se establecen unos controles operacionales, esto no lo  valida ser asociado de negocio.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 313  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG13
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Dentro de los criterios de prevencion del lavado de activos y de la financiacion del terrorismo, los unicos que pueden prescindir de verificar antecedentes legales, penales y financieros son:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+NINGUNO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+TODOS
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+PARTES INTERESADAS
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+ASOCIADOS DE NEGOCIO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 314  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG14
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El requisito de seguridad para un asociado de negocio en el que presenta un procedimiento documentado para implementar y verificar periodicamente un control operacional a sus asociados… corresponde al estandar..
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.3.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+	</question>
+	<!-- question: 315  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG15
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El incluir criterios de prevención de LA/FT en los asociados de negocio se enmarca para el estandar…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+TODOS LOS ESTANDARES
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+NINGUNO DE LOS ESTANDARES
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2/5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3/5.0.1
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 316  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG16
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Las unidades de carga para garantizarle su integridad deben de ser:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Inspeccionadas al entrar, al ser cargadas, al termino y salida del sitio de carga, verificar que no ingresen personas no autorizadas al sitio y artefacto de carga, revisado que no hallan roedores, insectos o elementos extraños, filmado y fotografiado durante la actividad de cargue y cierre con los elementos de seguridad establecidos y documentados los criterios para rechazar una unidad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Inspeccionadas al entrar, al ser cargadas, al termino y salida del sitio de carga, verificar que no ingresen personas no autorizadas al sitio y artefacto de carga, filmado y fotografiado durante la actividad de cargue y cierre con los elementos de seguridad establecidos y documentados los criterios para rechazar una unidad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Inspeccionadas al entrar, al ser cargadas, revisado de que no hallan roedores, insectos o elementos extraños, filmado y fotografiado durante la actividad de cargue y cierre con los elementos de seguridad establecidos y documentados los criterios para rechazar una unidad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Inspeccionadas al entrar, al ser cargadas, al termino y salida del sitio de carga, verificar que no ingresen personas no autorizadas al sitio y artefacto de carga, revisado de que no hallan roedores, insectos o elementos extraños, inspeccionado durante la actividad de cargue y cierre con los elementos de seguridad establecidos y documentados los criterios para rechazar una unidad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 317  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG17
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El estandar al que aplica a  las cargas ser Inspeccionadas al entrar, al ser cargadas, al termino y salida del sitio de carga, verificar que no ingresen personas no autorizadas al sitio y artefacto de carga, revisado de que no hallan roedores, insectos o elementos extraños, filmado y fotografiado durante la actividad de cargue y cierre con los elementos de seguridad establecidos y documentados los criterios para rechazar una unidad.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.1.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+NINGUNO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 318  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG18
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Para el asociado de negocio los requisitos de seguridad en en el control de ruta, procede en los estandar..
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+5.0.1. y 5.0.2
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.1. y 5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.2. y 5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+5.0.3
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 319  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG19
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En la gestion de personal  en el estandar 5.0.2, se contempla los siguientes procedimientos documentados, entre otros:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Visita domiciliaria al personal que ocupa cargos criticos, y apliacrles una prueba de confiabilidad basado en gestión de riesgos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Contar con un programa de capacitación ocasionalmente cuando haya accidentes, actualizar las hojas de vida cada promocion interna en carrera administrativa.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Visita domiciliaria a todo el personal  y aplicarles una prueba de confiabilidad basado en gestión de riesgos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Mantener la confianza entre los colaboradores para detectar consumo de alcohol o sustancias sicoactivas.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 320  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG20
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Documentado el procedimiento de control de accesos y seguridad fisica incluye por lo menos los siguientes elementos en los estandares 5.0.2 y 5.0.3:
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Acceso de colaboradores; acceso de visitantes,  contratistas y terceros; inspecciones;  control operacional en las instalaciones.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Acceso de colaboradores; acceso de visitantes,  contratistas y terceros; inspecciones; acceso de autoridades y vehiculos de emergencias; control operacional en las instalaciones.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Acceso de colaboradores; inspecciones; acceso de autoridades y vehiculos de emergencias; control operacional en las instalaciones.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Acceso de colaboradores; acceso de visitantes,  contratistas y terceros;  acceso de autoridades y vehiculos de emergencias; control operacional en las instalaciones.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 321  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG21
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+A la seguridad fisica corresponde, plano con la ubicación de las areas criticas de la instalación, inspecciones y reparaciones periodicas para mantener la integridad de las barreras perimetrales y estructuras de los edificios asi como a los sitemas de emergencia, control de llaves, dispositivos y claves de acceso.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 322  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod3-PREG22
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En la seguridad de la informacion se establece en las empresas de los tres estandares internacionales, la implementación de una politica de seguridad en la que se facilite el acceso a información confidencial asi como una politica del uso de los recursos informaticos.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+
+
+
+</quiz>

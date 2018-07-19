@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<!-- question: 0  -->
+	<question type="category">
+		<category>
+			<text>
+$course$/Evaluación Módulo 2
+			</text>
+		</category>
+	</question>
+	<!-- question: 201  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG01
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Los actores de la cadena logistica internacional encuentra en la Norma BASC…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+el marco para planear, desarrollar, verificar y tomar las acciones para mejorar en la implementacion en la gestion en control y seguridad.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Aumentar la productividad e imagen de la empresa.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Garantizar mejora en utilidades producto de la comercializacion.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+A traves de la operación logistica mantenerse activo en la cadena de suministro nacional.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 202  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG02
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La adecuada gestion de riesgos en la organización es producto de la interdependencia e interrelacion de los procesos
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Integrando con esto el contexto interno y el contexto externo de la organización
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Comprometiendo solo a los asociados de negocio con el SGCS
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Facilita el desarrollo comercial con las partes interesadas
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Amplia el panorama de los riesgos en la organización como apoyo a las autoridades locales.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 203  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG03
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+El mapa de procesos permite ademas de facilitar las coordinaciones con los elementos clave
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Establecer los procesos estrategicos, misionales y de apoyo
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Identificarse con los clientes y proveedores
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Genera la visualizacion del desempeño de cada actor en la cadena de abastecimiento
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Declina la participacion de actores que representan riesgos en la cadena logistica.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 204  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG04
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Son procesos estrategicos de dirección o gerenciales
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Los que definen la planificación de mediano y largo plazo de la empresa. Establecen políticas, fijan objetivos y metas, asignan responsabilidades y recursos. Son responsabilidad de la alta dirección de la empresa
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+son las actividades esenciales que involucran diferentes áreas de la empresa y constituyen su misión (su razón de ser). Estos procesos tienen impacto en el cliente creando valor para éste, porque le entregan los productos que requiere.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Son en los que se Identifica procesos, elabora mapa y los caracteriza.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+son procesos que normalmente no son visibles para los clientes, pero que son fundamentales al dar apoyo a los procesos misionales, para que se pueden llevar a cabo.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 205  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG05
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Procesos misionales de negocio claves, operativo o cadenas de valor.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Son las actividades esenciales que involucran diferentes areas de la empresa y constituyen su mision (su razon de ser). Estos procesos tienen impacto en el cliente creando valor para éste, por que le entregan los productos que requiere.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Los que definen la planificación de mediano y largo plazo de la empresa. Establecen políticas, fijan objetivos y metas, asignan responsabilidades y recursos. Son responsabilidad de la alta dirección de la empresa
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Son procesos que normalmente no son visibles para los clientes, pero que son fundamentales al dar apoyo a los procesos misionales, para que se puedan llevar a cabo.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Son en los que se Identifica procesos, elabora mapa y los caracteriza.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 206  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG06
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Procesos de soporte, apoyo o facilitadores
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Son procesos que normalmente no son visibles para los clientes, pero que son fundamentales al dar apoyo a los procesos misionales, para que se puedan llevar a cabo.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Son en los que se Identifica procesos, elabora mapa y los caracteriza.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Los que definen la planificación de mediano y largo plazo de la empresa. Establecen políticas, fijan objetivos y metas, asignan responsabilidades y recursos. Son responsabilidad de la alta dirección de la empresa
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Son las actividades esenciales que involucran diferentes areas de la empresa y constituyen su mision (su razon de ser). Estos procesos tienen impacto en el cliente creando valor para éste, por que le entregan los productos que requiere.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 207  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG07
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En la caracterizacion de procesos se establece
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Asignacion de procesos misionales clave a sus responsables  e instrucciones de trabajo por parte de la alta gerencia y su equipo de gestion.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Garantizar la produccion y calidad  del producto asi como evitar su contaminacion por cualquier elemento ilicito asi como su peso y medida exacta.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Mantener el control diario de higiene personal, llevar el formato de produccion diaria, control de calidad, verificar el acceso a areas criticas.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Aplicaccion de los estandares BASC
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 208  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG08
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Son requisitos generales del SGCS,
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Contexto, liderazgo, apoyo, evaluación de desempeño, planificacion, mejora.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Contexto, liderazgo, apoyo, evaluación de riesgos, planificacion, mejora.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Contexto interno, liderazgo, apoyo, evaluación de desempeño, planificacion, mejora.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Contexto, liderazgo, apoyo, proceso misional, evaluación de desempeño, planificacion, mejora.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 209  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG09
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En la implementacion del SGCS, se contempla EL CONTEXTO de la organización, y esta contempla en su contexto externo: las buenas practicas en la actividad empresarial, los niveles de educación, el entorno legal, tecnologico y competitivo.. Entre otros.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 210  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG10
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En la implementacion del SGCS, se contempla EL CONTEXTO de la organización, y esta contempla en su contexto INTERNO: la cultura organizacional, buen clima y ambiente laboral, los procesos , la infraestructura, la madurez de la organizacion.. Entre otros.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 211  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG11
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En la determinacion del ALCANCE del SGCS, se contempla… un compromiso de cumplir con los requisitos legales
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 212  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG12
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La politica de gestion en control y seguridad se caracteriza
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+sea apropiada al contexto y al alcance de la organización, proporcione un marco de referencia para el establecimiento de los objetivos del SGCS.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Incluye un compromiso de mejora continua, debe plantear un cambio que represente un reto, estar enmarcados en un tiempo limite
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+estar disponible y mantenerse como informacion documentada, establecer las responsabilidades de los lideres de los procesos en el SGCS.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+establece indicadores que evidencien su avance o cumplimiento, identifica el auditor lider y los auditores internos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 213  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG13
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+Los objetivos del SGCS se caracterizan, congruencia con los compromisos establecidos en la politica, medibles, concretos y realizables; plantea un cambio como reto;esta enmarcado en un tiempo limite; establece indicadores que determinan avance o cumplimiento.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 214  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG14
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La planificacion del SGCS requiere una adecuada gestion de riesgos con un procedimiento bien documentado basado en los criterios de las partes interesadas
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 215  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG15
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+En el SGCS el apoyo debe asegurar los recursos necesarios y tener toda la informacion documentada para garantizar el sostenimiento del sistema.
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+VERDADERO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+FALSO
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+
+
+
+
+
+
+	</question>
+	<!-- question: 216  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG16
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La informacion documentada del SGCS, contiene…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Politica del SGCS, objetivos del SGCS, el manual que describa el alcance y como cumple con las normas y estandares del BASC, asi como las exclusiones debidamente justificadas, los procedimientos y registros requeridos por la Norma y Estandar que corresponda.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Politica del SGCS, objetivos del SGCS, el manual que describa el alcance y como cumple con las normas y estandares del BASC, asi como las exclusiones debidamente justificadas, los procedimientos y registros requeridos por la Norma y Estandar que corresponda.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+La identificacion de las necesidades para implementar el manual que describa el alcance y como cumple con las normas y estandares del BASC
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+los procedimientos y registros requeridos por la Norma y Estandar que corresponda para cada riesgo identificado.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 217  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG17
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La gestion del riesgo es…
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Identificacion de riesgos, analisis de riesgos, controles operacionales, actividades para responder en caso que se materialice el riesgo.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Identificacion de riesgos, analisis de riesgos, evaluacion de riesgos, transferencia de riesgos
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Identificacion de riesgos, analisis de riesgos, controles operacionales, actividades para priorizar el riesgo.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Estudio de riesgos, analisis de riesgos, controles operacionales, tratamiento de riesgos.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+	<!-- question: 218  -->
+	<question type="multichoice">
+		<name>
+			<text>
+Audi2017Mod2-PREG18
+			</text>
+		</name>
+		<questiontext format="html">
+			<text>
+La revision de los riesgos se hace …
+			</text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text/>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.1000000</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>none</answernumbering>
+		<correctfeedback format="html">
+			<text/>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			<text/>
+		</partiallycorrectfeedback>
+		<incorrectfeedback format="html">
+			<text/>
+		</incorrectfeedback>
+		<answer fraction="100" format="html">
+			<text>
+Periodicamente, al menos una vez al año, cuando hay cambios en las amenazas,  en el contexto, en el alcance o los procesos
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+ una vez al año, cuando hay cambios en las amenazas,  en el contexto, en el alcance o los procesos
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Para alistamiento de las auditorias  de tercer nivel.
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text>
+Cuando se evidencia nuevas amenazas
+			</text>
+			<feedback format="html">
+				<text/>
+			</feedback>
+		</answer>
+	</question>
+
+
+</quiz>
