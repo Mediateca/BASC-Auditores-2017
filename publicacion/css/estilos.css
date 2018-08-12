@@ -751,6 +751,17 @@ table.logos tr:not(:last-of-type) {
 .tabla tfoot>tr>td {
     font-size: smaller;
 }
+.tabla td.tipo1,
+.tabla td.tipo2 {
+    color: #fff;
+    font-weight: bold;
+}
+.tabla td.tipo1 {
+    background-color: #74b233 !important;
+}
+.tabla td.tipo2 {
+    background-color: #3b8acd !important;
+}
 .seleccionable {
     margin-top: 30px;
     padding: 10px;
