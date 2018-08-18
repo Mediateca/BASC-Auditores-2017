@@ -37,6 +37,7 @@
 #Audi .lineaTiempo div a.tipo1,
 #Audi .arbol a.tipo1,
 #Audi .graficoSimple a.tipo1,
+#Audi .graficoSimple .tipo1,
 #Audi .emparejamiento .tipo1 a,
 #Audi .listadoHorizontal a.tipo1,
 #Audi .esquemaCircular div.pasos div.paso a.tipo1,
@@ -47,12 +48,20 @@
 #Audi .lineaTiempo div a.tipo2,
 #Audi .arbol a.tipo2,
 #Audi .graficoSimple a.tipo2,
+#Audi .graficoSimple .tipo2,
 #Audi .emparejamiento .tipo2 a,
 #Audi .listadoHorizontal a.tipo2,
 #Audi .esquemaCircular div.pasos div.paso a.tipo2,
 #Audi #listaDesplegable.tipo2 li strong {
     background-color: #3b8acd;
     border: 2px solid #1a6fb2;
+}
+#Audi .graficoSimple.estatico .tipo1,
+#Audi .graficoSimple.estatico .tipo2 {
+    text-align: center;
+    padding: 1em 0;
+    color: #fff;
+    font-weight: bold;
 }
 #Audi .lineaTiempo div:after {
     border-top: 2px solid #924ba9;
@@ -804,7 +813,8 @@ table.logos tr:not(:last-of-type) {
     text-align: center;
 }
 .tablaComun.col-50-50 th,
-.tablaComun.col-50-25-25 th:nth-of-type(1) {
+.tablaComun.col-50-25-25 th:nth-of-type(1),
+.tablaComun.col-25-25-50 th:nth-of-type(3) {
     width: 50%;
 }
 .tablaComun.col-33-33-33 th {
@@ -822,6 +832,8 @@ table.logos tr:not(:last-of-type) {
 .tablaComun.col-40-40-20 th:nth-of-type(2) {
     width: 40%;
 }
+.tablaComun.col-25-25-50 th:nth-of-type(1),
+.tablaComun.col-25-25-50 th:nth-of-type(2),
 .tablaComun.col-50-25-25 th:nth-of-type(2),
 .tablaComun.col-50-25-25 th:nth-of-type(3) {
     width: 25%;
