@@ -30,6 +30,14 @@
     background-color: #358a7d;
     border-color: #318376;
 }
+#Audi .panel-danger {
+    border-color: #a94442;
+}
+#Audi .panel-danger>.panel-heading {
+    color: #fff;
+    background-color: #a94442;
+    border-color: #a94442;
+}
 #Audi nav.paginacion .pagination li span,
 #Audi nav.paginacion .pagination li a {
     background-color: #323a45;
